@@ -16,6 +16,9 @@ Display infos about placed assets (name, pack, type, layer, tags...)
 ## [Sketch Tool](https://github.com/Moulkator/SketchTool)
 Draw sketches and generate full buildings in seconds
 
+## [Theme Search](https://github.com/Moulkator/ThemeSearch)
+Lets you search for assets via general themes if you need inspiration
+
 ----
 
 ### Coming Soon
