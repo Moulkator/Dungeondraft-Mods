@@ -13,11 +13,13 @@ Search for a word, or similar assets, and automatically select every result on t
 ## [Asset Inspector](https://github.com/Moulkator/AssetInspector)
 Display infos about placed assets (name, pack, type, layer, tags...)
 
+## [Sketch Tool](https://github.com/Moulkator/SketchTool)
+Draw sketches and generate full buildings in seconds
+
 ----
 
 ### Soon to come
 - Better Terrain Tool
-- Sketch Tool
 - Theme Search
 - Cave Paths
 - Cycle Hovered Assets
