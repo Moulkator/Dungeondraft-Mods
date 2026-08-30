@@ -22,8 +22,10 @@ Lets you search for assets via general themes if you need inspiration
 ## [Cycle Hovered Assets](https://github.com/Moulkator/CycleHoveredAssets/tree/main)
 Hover over a pile of asset and press Tab to select them one by one
 
+## [Cave Paths](https://github.com/Moulkator/CavePaths)
+Lets you turn Cave Walls into paths and remove the cave floor
+
 ----
 
 ### Coming Soon
 - Better Terrain Tool
-- Cave Paths
