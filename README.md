@@ -1,4 +1,4 @@
-# Dungeondraft-Mods
+# Moulk's Dungeondraft Mods
 You can find all my Dungeondraft Mods below:
 
 ## [Unofficial Patch](https://github.com/Moulkator/UnofficialPatch) 
