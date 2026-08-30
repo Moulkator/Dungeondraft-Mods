@@ -19,6 +19,9 @@ Draw sketches and generate full buildings in seconds
 ## [Theme Search](https://github.com/Moulkator/ThemeSearch)
 Lets you search for assets via general themes if you need inspiration
 
+## [Cycle Hovered Assets](https://github.com/Moulkator/CycleHoveredAssets/tree/main)
+Hover over a pile of asset and press Tab to select them one by one
+
 ----
 
 ### Coming Soon
