@@ -27,4 +27,3 @@ Hover over a pile of asset and press Tab to select them one by one
 ### Coming Soon
 - Better Terrain Tool
 - Cave Paths
-- Cycle Hovered Assets
