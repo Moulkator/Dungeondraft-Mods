@@ -18,7 +18,7 @@ Draw sketches and generate full buildings in seconds
 
 ----
 
-### Soon to come
+### Coming Soon
 - Better Terrain Tool
 - Theme Search
 - Cave Paths
