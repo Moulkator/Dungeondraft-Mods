@@ -23,6 +23,5 @@ Lets you search for assets via general themes if you need inspiration
 
 ### Coming Soon
 - Better Terrain Tool
-- Theme Search
 - Cave Paths
 - Cycle Hovered Assets
