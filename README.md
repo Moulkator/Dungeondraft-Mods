@@ -26,4 +26,4 @@ Hover over a pile of asset and press Tab to select them one by one
 Lets you turn Cave Walls into paths and remove the cave floor
 
 ## [Better Terrain Tool](https://github.com/Moulkator/BetterTerrainTool)
-A real drawing tool with a lot of options close to a real image editor.
+Adds a real drawing tool with a lot of options similar to a true  image editor software.
