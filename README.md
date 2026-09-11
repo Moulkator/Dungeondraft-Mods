@@ -4,7 +4,7 @@ You can find all my Dungeondraft Mods below:
 ## [Unofficial Patch](https://github.com/Moulkator/UnofficialPatch) 
 A huge collection of bug fixes and new features
 
-## [Soft Shadows](https://github.com/Moulkator/UnofficialPatch)
+## [Soft Shadows](https://github.com/Moulkator/SoftShadows)
 Easily add all sorts of shadows to your map (objects, walls, paths, roofs, buildings)
 
 ## [Search & Select](https://github.com/Moulkator/SearchSelect)
