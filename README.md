@@ -27,3 +27,6 @@ Lets you turn Cave Walls into paths and remove the cave floor
 
 ## [Better Terrain Tool](https://github.com/Moulkator/BetterTerrainTool)
 Adds a real drawing tool with a lot of options similar to a true  image editor software.
+
+## [Roof Builder](https://github.com/Moulkator/RoofBuilder/)
+Lets you turn patterns into customizable roofs in seconds. 
